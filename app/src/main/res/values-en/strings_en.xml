@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SolveIt</string>
+    <string name="button_play_game">Play game !</string>
+    <string name="button_history_game">History</string>
+    <string name="button_delete">Delete</string>
+    <string name="button_clear">Clear</string>
+    <string name="button_verify">Verify</string>
+    <string name="lifes_menu">LIFES : </string>
+    <string name="score_menu">SCORE : </string>
+    <string name="save_score_btn">Save</string>
+    <string name="username_score">Username</string>
+    <string name="about">About</string>
+    <string name="TEXT_TEXTVIEW_DERNIER_SCORE">The last score is %1$s</string>
+    <string name="no_history_available">No history available</string>
+    <string name="game_history">Game\'s history</string>
+    <string name="scroll_view_description">All games</string>
+
+</resources>

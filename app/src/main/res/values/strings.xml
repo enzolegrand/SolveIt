@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">SolveIt</string>
+    <string name="button_play_game">Jouer au jeu</string>
+    <string name="button_history_game">Historique</string>
+    <string name="button_delete">Supprimer</string>
+    <string name="button_clear">Effacer</string>
+    <string name="button_verify">Verifier</string>
+    <string name="lifes_menu">VIES : </string>
+    <string name="score_menu">SCORE : </string>
+    <string name="save_score_btn">Enregistrer</string>
+    <string name="username_score">Nom d\'utilisateur</string>
+    <string name="about">À propos</string>
+    <string name="TEXT_TEXTVIEW_DERNIER_SCORE">Le dernier score est  %1$s</string>
+    <string name="no_history_available">No history available</string>
+    <string name="game_history">Historique des parties</string>
+    <string name="scroll_view_description">Toutes les parties</string>
+</resources>
