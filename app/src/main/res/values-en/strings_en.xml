@@ -15,5 +15,8 @@
     <string name="no_history_available">No history available</string>
     <string name="game_history">Game\'s history</string>
     <string name="scroll_view_description">All games</string>
-
+    <string name="programmed_by">Application programmed by</string>
+    <string name="student1">Enzo Legrand</string>
+    <string name="student2">Jules Souchere</string>
+    <string name="back">Back</string>
 </resources>

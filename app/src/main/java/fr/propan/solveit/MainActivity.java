@@ -8,7 +8,7 @@ import androidx.appcompat.app.AppCompatActivity;
 
 public class MainActivity extends AppCompatActivity {
 
-    private Button button_jouer, button_historique;
+    private Button button_jouer, button_historique, button_about;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -26,6 +26,7 @@ public class MainActivity extends AppCompatActivity {
 
         button_historique = findViewById(R.id.bouton_historique);
         button_jouer = findViewById(R.id.bouton_jouer);
+        button_about = findViewById(R.id.bouton_a_propos);
 
         button_jouer.setOnClickListener(view -> {
             Intent intent = new Intent(this, GameActivity.class);
@@ -34,6 +35,11 @@ public class MainActivity extends AppCompatActivity {
 
         button_historique.setOnClickListener(view -> {
             Intent intent = new Intent(this, HistoriqueActivity.class);
+            startActivity(intent);
+        });
+
+        button_about.setOnClickListener(view -> {
+            Intent intent = new Intent(this, AboutActivity.class);
             startActivity(intent);
         });
     }

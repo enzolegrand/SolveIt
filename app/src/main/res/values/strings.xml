@@ -14,4 +14,8 @@
     <string name="no_history_available">No history available</string>
     <string name="game_history">Historique des parties</string>
     <string name="scroll_view_description">Toutes les parties</string>
+    <string name="programmed_by">Application programmée par</string>
+    <string name="student1">Enzo Legrand</string>
+    <string name="student2">Jules Souchere</string>
+    <string name="back">Retour</string>
 </resources>

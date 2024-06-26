@@ -40,5 +40,11 @@
             android:theme="@style/Theme.SolveIt"
             android:exported="true">
         </activity>
+        
+        <activity
+            android:name=".AboutActivity"
+            android:theme="@style/Theme.SolveIt"
+            android:exported="true">
+        </activity>
 </application>
 </manifest>

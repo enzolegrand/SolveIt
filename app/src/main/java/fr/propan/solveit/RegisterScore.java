@@ -53,7 +53,7 @@ public class RegisterScore extends AppCompatActivity {
         toSave.setDate(new Date());
         gameHistoryDao.create(toSave);
 
-        Intent intent = new Intent(this, HistoriqueActivity.class);
+        Intent intent = new Intent(this, MainActivity.class);
         startActivity(intent);
     }
 

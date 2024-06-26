@@ -37,7 +37,7 @@
             android:text="@string/button_history_game" />
 
         <Button
-            android:id="@+id/button2"
+            android:id="@+id/bouton_a_propos"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:backgroundTint="#169AFA"
